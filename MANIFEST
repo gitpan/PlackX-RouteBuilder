@@ -11,6 +11,7 @@ inc/Module/Install/Metadata.pm
 inc/Module/Install/TestBase.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
+inc/Plack/Test.pm
 inc/Spiffy.pm
 inc/Test/Base.pm
 inc/Test/Base/Filter.pm
@@ -23,3 +24,4 @@ MANIFEST			This list of files
 META.yml
 README
 t/00_load_all.t
+t/01_dispatch.t
